@@ -2,7 +2,7 @@
 * Author: Aidan Jack
 * Date: 2024/26/08
 *
-*A simple Aidan Jack program in C
+*A program in C with my name and major
 *
 */
 #include <stdlib.h>
@@ -10,7 +10,8 @@
 
 int main(int argc, char **argv) {
 
-    printf("Aidan Jack\n");
+    printf("Aidan Jack!\n");
+    printf("My major is Computer Science!\n");
 
     return 0;
 }
